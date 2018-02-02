@@ -1,0 +1,22 @@
+{
+  "name": "noobgl-quaternion",
+  "version": "0.0.1",
+  "description": "Quaternion classes designed for noobgl",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noobgl/noobgl-quaternion.git"
+  },
+  "keywords": [
+    "quaternion"
+  ],
+  "author": "Jordan Delcros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noobgl/noobgl-quaternion/issues"
+  },
+  "homepage": "https://github.com/noobgl/noobgl-quaternion#readme",
+  "dependencies": {
+    "noobgl-matrix": "0.0.1"
+  }
+}
