@@ -1,6 +1,6 @@
 {
   "name": "noobgl-quaternion",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Quaternion classes designed for noobgl",
   "main": "index.js",
   "repository": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/noobgl/noobgl-quaternion#readme",
   "dependencies": {
-    "noobgl-matrix": "0.0.1"
+    "noobgl-matrix": "0.0.3"
   }
 }
